@@ -1,11 +1,626 @@
 [
   {
     "item": {
+      "value": "Q5543860",
+      "label": "George Richardson"
+    },
+    "replacedBy": {
+      "value": "Q6247999",
+      "label": "John McKenzie"
+    },
+    "statement": "Q5543860$513F8724-C328-4B17-9716-98522483F2AA",
+    "ordinal": "1",
+    "start": "1889-10-17T00:00:00Z",
+    "end": "1891-01-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6247999",
+      "label": "John McKenzie"
+    },
+    "replaces": {
+      "value": "Q5543860",
+      "label": "George Richardson"
+    },
+    "replacedBy": {
+      "value": "Q7795384",
+      "label": "Thomas Young Duncan"
+    },
+    "statement": "Q6247999$284B55BE-2C07-4F2C-9E31-C9F44779D513",
+    "ordinal": "2",
+    "start": "1891-01-24T00:00:00Z",
+    "end": "1900-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7795384",
+      "label": "Thomas Young Duncan"
+    },
+    "replaces": {
+      "value": "Q6247999",
+      "label": "John McKenzie"
+    },
+    "replacedBy": {
+      "value": "Q7347577",
+      "label": "Robert McNab"
+    },
+    "statement": "Q7795384$2C303E68-7930-4FE5-B0A7-5888D6779F20",
+    "ordinal": "3",
+    "start": "1900-07-02T00:00:00Z",
+    "end": "1906-08-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7347577",
+      "label": "Robert McNab"
+    },
+    "replaces": {
+      "value": "Q7795384",
+      "label": "Thomas Young Duncan"
+    },
+    "replacedBy": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "statement": "Q7347577$B6043B7B-1193-48A9-A9C6-DE8A39E254E0",
+    "ordinal": "4",
+    "start": "1906-08-06T00:00:00Z",
+    "end": "1908-11-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replaces": {
+      "value": "Q7347577",
+      "label": "Robert McNab"
+    },
+    "replacedBy": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "statement": "Q1371024$040EF7C0-DFC2-4F93-967F-B70FDABC7DD0",
+    "ordinal": "5",
+    "start": "1908-12-01T00:00:00Z",
+    "end": "1909-05-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "replaces": {
+      "value": "Q1371024",
+      "label": "Joseph Ward"
+    },
+    "replacedBy": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "statement": "Q206153$AF7F9CD7-742B-4617-91B2-6B649B0F7259",
+    "ordinal": "6",
+    "start": "1909-05-01T00:00:00Z",
+    "end": "1912-07-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "replaces": {
+      "value": "Q206153",
+      "label": "Thomas Mackenzie"
+    },
+    "replacedBy": {
+      "value": "Q8007894",
+      "label": "William Donald Stuart MacDonald"
+    },
+    "statement": "Q923806$48918D29-1DEB-4423-BCAC-BBE8B86464D8",
+    "ordinal": "7",
+    "start": "1912-07-10T00:00:00Z",
+    "end": "1915-08-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8007894",
+      "label": "William Donald Stuart MacDonald"
+    },
+    "replaces": {
+      "value": "Q923806",
+      "label": "William Massey"
+    },
+    "replacedBy": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "statement": "Q8007894$5DD66FF9-70E7-4F51-88EC-1CAA7E037882",
+    "ordinal": "8",
+    "start": "1915-08-12T00:00:00Z",
+    "end": "1919-08-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "replaces": {
+      "value": "Q8007894",
+      "label": "William Donald Stuart MacDonald"
+    },
+    "replacedBy": {
+      "value": "Q15998976",
+      "label": "Oswald Hawken"
+    },
+    "statement": "Q8016191$4D67E6C3-0A17-4E7F-9CE3-3C1BB97F8E74",
+    "ordinal": "9",
+    "start": "1919-09-04T00:00:00Z",
+    "end": "1926-01-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15998976",
+      "label": "Oswald Hawken"
+    },
+    "replaces": {
+      "value": "Q8016191",
+      "label": "William Nosworthy"
+    },
+    "replacedBy": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "statement": "Q15998976$984DC965-F5EE-4F84-B865-4CB79330778C",
+    "ordinal": "10",
+    "start": "1926-01-18T00:00:00Z",
+    "end": "1928-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replaces": {
+      "value": "Q15998976",
+      "label": "Oswald Hawken"
+    },
+    "replacedBy": {
+      "value": "Q4723186",
+      "label": "Alfred Murdoch"
+    },
+    "statement": "Q775773$7E873F8A-C488-403D-8824-B688F0AF4CC3",
+    "ordinal": "11",
+    "start": "1928-12-10T00:00:00Z",
+    "end": "1930-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4723186",
+      "label": "Alfred Murdoch"
+    },
+    "replaces": {
+      "value": "Q775773",
+      "label": "George Forbes"
+    },
+    "replacedBy": {
+      "value": "Q5235724",
+      "label": "David Jones"
+    },
+    "statement": "Q4723186$B6B5C175-A93A-4FD4-9D7D-48EAB74F747F",
+    "ordinal": "12",
+    "start": "1930-05-28T00:00:00Z",
+    "end": "1931-09-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5235724",
+      "label": "David Jones"
+    },
+    "replaces": {
+      "value": "Q4723186",
+      "label": "Alfred Murdoch"
+    },
+    "replacedBy": {
+      "value": "Q5080539",
+      "label": "Charles MacMillan"
+    },
+    "statement": "Q5235724$B27BEE7F-041A-452F-A015-9FDF645E715D",
+    "ordinal": "13",
+    "start": "1931-09-22T00:00:00Z",
+    "end": "1932-01-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5080539",
+      "label": "Charles MacMillan"
+    },
+    "replaces": {
+      "value": "Q5235724",
+      "label": "David Jones"
+    },
+    "replacedBy": {
+      "value": "Q3228906",
+      "label": "Lee Martin"
+    },
+    "statement": "Q5080539$6C22EA69-2C05-46EC-B4F2-2E4738E9AC7F",
+    "ordinal": "14",
+    "start": "1932-01-08T00:00:00Z",
+    "end": "1935-12-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3228906",
+      "label": "Lee Martin"
+    },
+    "replaces": {
+      "value": "Q5080539",
+      "label": "Charles MacMillan"
+    },
+    "replacedBy": {
+      "value": "Q6134641",
+      "label": "James Gillespie Barclay"
+    },
+    "statement": "Q3228906$A716D725-2D84-4673-939E-67606EFC2D42",
+    "ordinal": "15",
+    "start": "1935-12-06T00:00:00Z",
+    "end": "1941-01-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6134641",
+      "label": "James Gillespie Barclay"
+    },
+    "replaces": {
+      "value": "Q3228906",
+      "label": "Lee Martin"
+    },
+    "replacedBy": {
+      "value": "Q4889174",
+      "label": "Benjamin Roberts"
+    },
+    "statement": "Q6134641$8B9CD2F0-A80B-45FE-8C76-EBEE643D02A3",
+    "ordinal": "16",
+    "start": "1941-01-21T00:00:00Z",
+    "end": "1943-10-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4889174",
+      "label": "Benjamin Roberts"
+    },
+    "replaces": {
+      "value": "Q6134641",
+      "label": "James Gillespie Barclay"
+    },
+    "replacedBy": {
+      "value": "Q5344235",
+      "label": "Ted Cullen"
+    },
+    "statement": "Q4889174$544BFFA8-1E48-4D60-B802-84D1E072F097",
+    "ordinal": "17",
+    "start": "1943-10-29T00:00:00Z",
+    "end": "1946-12-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5344235",
+      "label": "Ted Cullen"
+    },
+    "replaces": {
+      "value": "Q4889174",
+      "label": "Benjamin Roberts"
+    },
+    "replacedBy": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "statement": "Q5344235$A44D2F80-D171-484F-A513-CC2344F5B9F6",
+    "ordinal": "18",
+    "start": "1946-12-19T00:00:00Z",
+    "end": "1949-12-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replaces": {
+      "value": "Q5344235",
+      "label": "Ted Cullen"
+    },
+    "replacedBy": {
+      "value": "Q7509405",
+      "label": "Sidney Walter Smith"
+    },
+    "statement": "Q637012$748A0B2D-14AA-46A9-970C-985C1CFCCBB2",
+    "ordinal": "19",
+    "start": "1949-12-13T00:00:00Z",
+    "end": "1957-09-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7509405",
+      "label": "Sidney Walter Smith"
+    },
+    "replaces": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replacedBy": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "statement": "Q7509405$A7BFC24A-2795-4360-A019-F07C25E00BA2",
+    "ordinal": "20",
+    "start": "1957-09-26T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "replaces": {
+      "value": "Q7509405",
+      "label": "Sidney Walter Smith"
+    },
+    "replacedBy": {
+      "value": "Q8012002",
+      "label": "William Henry Gillespie"
+    },
+    "statement": "Q5126745$5858744D-C539-488B-B7FD-B4EB6880E958",
+    "ordinal": "21",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8012002",
+      "label": "William Henry Gillespie"
+    },
+    "replaces": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "replacedBy": {
+      "value": "Q16000271",
+      "label": "Thomas Hayman"
+    },
+    "statement": "Q8012002$928A01F9-AC1B-4DE5-8DD8-7DAB2748605C",
+    "ordinal": "22",
+    "start": "1960-12-12T00:00:00Z",
+    "end": "1961-04-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16000271",
+      "label": "Thomas Hayman"
+    },
+    "replaces": {
+      "value": "Q8012002",
+      "label": "William Henry Gillespie"
+    },
+    "replacedBy": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "statement": "Q16000271$977D35BA-2172-4292-91F9-478C92B577C6",
+    "ordinal": "23",
+    "start": "1961-05-02T00:00:00Z",
+    "end": "1962-01-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replaces": {
+      "value": "Q16000271",
+      "label": "Thomas Hayman"
+    },
+    "replacedBy": {
+      "value": "Q5301317",
+      "label": "Douglas Carter"
+    },
+    "statement": "Q461383$1DF10453-3EE2-4AC9-A3AB-4AA1398A0064",
+    "ordinal": "24",
+    "start": "1962-01-24T00:00:00Z",
+    "end": "1969-12-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5301317",
+      "label": "Douglas Carter"
+    },
+    "replaces": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replacedBy": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "statement": "Q5301317$DCA0A0DD-4A3B-4ED8-8C63-BA43A087D201",
+    "ordinal": "25",
+    "start": "1969-12-22T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "replaces": {
+      "value": "Q5301317",
+      "label": "Douglas Carter"
+    },
+    "replacedBy": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "statement": "Q5145434$F9B07B82-6E27-41D0-93F9-CEFF7CE088A5",
+    "ordinal": "26",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replaces": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "replacedBy": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "statement": "Q5314460$E4B77C08-70C4-43B7-B986-88170DD38373",
+    "ordinal": "27",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "replaces": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replacedBy": {
       "value": "Q6198412",
       "label": "Jim Sutton"
     },
+    "statement": "Q5145434$87C01B19-9726-4840-B172-74B261BCC092",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1990-02-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6198412",
+      "label": "Jim Sutton"
+    },
+    "replaces": {
+      "value": "Q5145434",
+      "label": "Colin Moyle"
+    },
+    "replacedBy": {
+      "value": "Q3181466",
+      "label": "John Falloon"
+    },
     "statement": "Q6198412$EC367FAA-579C-4F4A-B430-0B35D474D0BA",
+    "ordinal": "28",
     "start": "1990-02-09T00:00:00Z",
     "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3181466",
+      "label": "John Falloon"
+    },
+    "replaces": {
+      "value": "Q6198412",
+      "label": "Jim Sutton"
+    },
+    "replacedBy": {
+      "value": "Q5978615",
+      "label": "Lockwood Smith"
+    },
+    "statement": "Q3181466$D5471A8F-CD26-4FB8-AF1F-CFAB02B09FA2",
+    "ordinal": "29",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1996-02-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5978615",
+      "label": "Lockwood Smith"
+    },
+    "replaces": {
+      "value": "Q3181466",
+      "label": "John Falloon"
+    },
+    "replacedBy": {
+      "value": "Q6245566",
+      "label": "John Luxton"
+    },
+    "statement": "Q5978615$5B6D7E0E-2352-48E3-AB78-B955CFB267A9",
+    "ordinal": "30",
+    "start": "1996-02-29T00:00:00Z",
+    "end": "1998-08-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6245566",
+      "label": "John Luxton"
+    },
+    "replaces": {
+      "value": "Q5978615",
+      "label": "Lockwood Smith"
+    },
+    "replacedBy": {
+      "value": "Q6198412",
+      "label": "Jim Sutton"
+    },
+    "statement": "Q6245566$915A48F6-6ADA-457E-B951-B0CE127D5550",
+    "ordinal": "31",
+    "start": "1998-08-26T00:00:00Z",
+    "end": "1999-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6198412",
+      "label": "Jim Sutton"
+    },
+    "replaces": {
+      "value": "Q6245566",
+      "label": "John Luxton"
+    },
+    "replacedBy": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "statement": "Q6198412$6DD47875-CCD5-4B13-A577-0A0A6C334C82",
+    "start": "1999-12-10T00:00:00Z",
+    "end": "2005-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "replaces": {
+      "value": "Q6198412",
+      "label": "Jim Sutton"
+    },
+    "replacedBy": {
+      "value": "Q6128819",
+      "label": "David Carter"
+    },
+    "statement": "Q1036723$3F75A725-0CE5-4462-AB1E-006B2CB161C8",
+    "ordinal": "32",
+    "start": "2005-10-19T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6128819",
+      "label": "David Carter"
+    },
+    "replaces": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "replacedBy": {
+      "value": "Q5212493",
+      "label": "Damien O'Connor"
+    },
+    "statement": "Q6128819$4B425087-DE9C-4B29-904A-036A3FB10700",
+    "ordinal": "33",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2011-12-14T00:00:00Z"
   }
 ]
